@@ -1,16 +1,16 @@
 education:
-  Princeton University:
+  University of Houston:
     - degree: Ph.D.
       year:
-        end: 1959
+        start: 2024
+  Universidad de Chile:
     - degree: M.A.
       year:
-        end: 1957
-  Harvard College:
+        end: 2019
+  Pontificia Universidad Católica de Chile:
     - degree: B.A.
       year:
-        end: 1953
-        start: 1949
+        end: 2015
 
 appointments:
   Harvard University:
