@@ -1,7 +1,7 @@
 ---
 author:
   - name: Luis Felipe García Castillo
-    url: https://en.wikipedia.org/wiki/Sidney_Verba
+    url: https://www.linkedin.com/in/lfgarciac/
     email: "lfgarcia87@cougarnet.uh.edu"
     degrees:
       - M.A.
@@ -26,19 +26,9 @@ nocite: '@*'
 
 {{< cv education >}}
 
-## Books
-
-:::{#refs-books}
-:::
-
 ## Peer-Reviewed Articles
 
 :::{#refs-articles}
-:::
-
-## Book Chapters
-
-:::{#refs-bookchapters}
 :::
 
 ## Working Papers
