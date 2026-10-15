@@ -1,46 +1,15 @@
 education:
   University of Houston:
-    - degree: Ph.D.
+    - degree: Ph.D. in Political Science
       year:
         start: 2024
   Universidad de Chile:
-    - degree: M.A.
+    - degree: M.A. in Political Science
       year:
         end: 2019
   Pontificia Universidad Católica de Chile:
-    - degree: B.A.
+    - degree: B.A. in Law
       year:
         end: 2015
 
-appointments:
-  Harvard University:
-  - position: Director of the Harvard University Library emeritus
-    year:
-      start: 1984
-  - position: Associate Dean for Undergraduate Education, Faculty of Arts and Sciences
-    year:
-      end: 1984
-      start: 1981
-  - position: Clarence Dillon Professor of International Affairs
-    year:
-      end: 1984
-      start: 1983
-  University of Chicago:
-  - position: Professor of Political Science
-    year:
-      end: 1972
-      start: 1968
-  - position: Senior Study Director, National Opinion Research Center
-    year:
-      end: 1972
-      start: 1968
-  Stanford University:
-  - position: Professor of Political Science
-    year:
-      end: 1968
-      start: 1964
-  Princeton University:
-  - position: Assistant and Associate Professor of Politics
-    year:
-      end: 1964
-      start: 1960
+

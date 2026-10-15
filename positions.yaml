@@ -4,9 +4,15 @@ positions:
       year:
         start: 2024
         
-Ministry General Secretariat of the Presidency, Government of Chile:   
-    - position: Advisor, Studies Division  
+  University of Chile:
+    - position: Teaching and Research Assistant
       year:
-        start: 2008
-        end: 2024
+        start: 2020
+        end: 2023
+        
+  Pontifical Catholic University of Chile:
+    - position: Teaching Assistant and Researcher
+      year:
+        start: 2016
+        end: 2019
     

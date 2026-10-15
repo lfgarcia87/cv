@@ -13,7 +13,7 @@ date: today
 format:
   cv-typst:
     keep-typ: false
-csl: "revsort-chicago-author-date.csl"
+csl: "american-political-science-association.csl"
 bibliography:
   books: "books.bib"
   bookchapters: "book_chapters.bib"
@@ -40,6 +40,10 @@ nocite: '@*'
 
 {{< cv honors >}}
 
-## Service
+## Academic positions
 
 {{< cv positions >}}
+
+## Professional positions
+
+{{< cv positions professional.yaml >}}
